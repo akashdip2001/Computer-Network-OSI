@@ -43,7 +43,7 @@ whoami            # current user
 
 ---
 
-# <a id="linux-file-permissions"></a>🔐 **Linux File Permissions (rwx Model)**
+# <a id="linux-file-permissions"></a>🔐 **Linux File Permissions (rwx Model)** -- [Explain](https://github.com/akashdip2001/linux-all-commands/blob/main/00%20Linux%20File%20Permission.md)
 
 Permissions are represented as:
 ```
