@@ -142,6 +142,8 @@ Imagine you open a browser and type **[www.google.com](http://www.google.com)** 
    * Handles disconnection and reconnection.
    * **Advantage**: Enables multiple sessions (e.g., multiple tabs open).
 
+<img align="right" alt="TCP UDP socket code" width="400" src="https://github.com/user-attachments/assets/f480be31-512d-4800-b540-2f225cabc8eb"> 
+
 4. **Transport Layer (Layer 4)**
 
    * Splits data into **segments**, adds **port numbers**.
